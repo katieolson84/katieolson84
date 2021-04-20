@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/katieolson_100" target="blank">Twitter: katieolson_100</a>
-<a href="https://linkedin.com/in/katieolson84" target="blank">LinkedIn: katieolson84</a>
+<a href="https://twitter.com/katieolson_100" target="blank">Twitter: katieolson_100</a><br></br>
+<a href="https://linkedin.com/in/katieolson84" target="blank">LinkedIn: katieolson84</a><br></br>
 <a href="https://instagram.com/katie_one_hundred" target="blank">Instagram: katie_one_hundred</a>
 </p>
 
