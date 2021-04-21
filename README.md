@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Katie Olson</h1>
 <h3 align="center">A full-stack web developer based out of Utah.</h3>
 
-- 🔭 I’m currently working on **completing Computer Science course at Lambda.**
+- 🔭 I’m currently working on **completing the Computer Science course at Lambda.**
 
 - 🌱 I’m currently learning **Python**
 
