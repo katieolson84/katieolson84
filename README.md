@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Katie Olson</h1>
 <h3 align="center">A full-stack web developer based out of Utah.</h3>
 
-- 🔭 I’m currently working on **completing the Computer Science course at Lambda.**
+- 🔭 I’m currently working on **a personal budget app, my portfolio and completing my coursework at Lambda School.**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently building Figma Wireframes and learning AntD.
 
 - 👯 I’m looking to collaborate on **any projects in HRTech, FinTech, EcoTech, or fun nerd projects (ie: StarWars Marvel, HP, etc.**
 
