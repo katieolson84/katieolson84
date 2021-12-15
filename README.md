@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Katie Olson</h1>
 <h3 align="center">A full-stack web developer based out of Utah.</h3>
 
-- 🔭 I’m currently working on **a personal budget app, my portfolio and completing my coursework at Lambda School.**
+- 🔭 I’m currently working on **freelance web development and design for clients.**
 
 - 🌱 I’m currently building Figma Wireframes and learning AntD.
 
