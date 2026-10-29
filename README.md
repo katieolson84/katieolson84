@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **freelance web development and design for clients.**
 
-- 🌱 I’m currently building Figma Wireframes and learning AntD.
+- 🌱 I’m currently building internal software for my company.
 
-- 👯 I’m looking to collaborate on **any projects in HRTech, FinTech, EcoTech, or fun nerd projects (ie: StarWars Marvel, HP, etc.**
+- 👯 I’m looking to collaborate on **any projects in HRTech, FinTech, or EcoTech.
 
-- 💬 Ask me about **react, css, resume help, my novels, vermicomposting, goats or Dr. Mario**
+- 💬 Ask me about **react, css, resume help, my novels, vermicomposting, or Dr. Mario**
 
 - 📫 How to reach me **katieolson84@gmail.com**
 
